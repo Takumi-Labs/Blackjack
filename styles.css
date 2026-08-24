@@ -22,3 +22,9 @@ p {
   font-size: 30px;
   font-style: italic;
 }
+
+.btn {
+  background-color: goldenrod;
+  color: #016f32;
+  width: 150px;
+}
